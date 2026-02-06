@@ -1,4 +1,4 @@
-##GitHub Copilot Enterprise for Eclipse Committers
+## GitHub Copilot Enterprise for Eclipse Committers
 
 This GitHub organization is a placeholder used to grant committers on Eclipse Foundation projects free access to GitHub Copilot Enterprise. See the [full announcement](LINK TO BLOG POST).
 
